@@ -1,4 +1,4 @@
-Samozřejmě! Zde jsou některé příklady práce se slovníky (hash tables) v PowerShellu:
+ # Příklady práce se slovníky (hash tables) v PowerShellu:
 
 1. **Vytvoření slovníku:**
    ```powershell
