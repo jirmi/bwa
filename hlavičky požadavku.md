@@ -1,5 +1,6 @@
 Vysvětli tyto HTTP hlavičky:
 
+```
 GET /2026/07/ukraine-is-stockpiling-home-built-interceptors-to-down-russian-ballistic-missiles-a-task-experts-call-the-champions-league/ HTTP/2
 Host: [www.19fortyfive.com](https://www.19fortyfive.com)
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0
@@ -15,6 +16,7 @@ Sec-Fetch-Site: same-origin
 Sec-Fetch-User: ?1
 Sec-GPC: 1
 Priority: u=0, i
+```
 
 Proč tu není hlavička Origin?
 
